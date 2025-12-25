@@ -1,14 +1,23 @@
-# Manifesto
+# UNWRITTEN Manifesto
 
-This document outlines the vision and guiding principles of the MotionCanvas application.
+## The Real Product is Permission
 
-## Vision
+UNWRITTEN is not an app; it is a **threshold**. It is a motion-based state where expression precedes identity, and meaning emerges only through choice.
 
-To create a revolutionary platform that merges creativity and technology, allowing users to express themselves through a series of interactive and engaging challenges. MotionCanvas aims to be more than just a game; it is an experience that connects with users on an emotional and intellectual level, fostering self-discovery and personal growth.
+Our core principles are built on a reversal of the typical digital contract:
 
-## Guiding Principles
+*   **Expression Before Identity:** We allow movement before meaning and trust before ownership. Users do not declare themselves to participate; they simply begin.
+*   **Motion as Consent:** The experience begins with a user's movement. There is no "start" button, no onboarding, no instructions. The first motion is a signal of intent, and the system responds in kind.
+*   **Hesitation is Respected:** Pauses are not seen as inactivity but as signals of completion or reflection. The system does not rush the user; it listens to their silence.
+*   **Presence Without Comparison:** We create a sense of a "collective field"—a knowledge that others are present—without introducing profiles, metrics, or social comparison. It is connection without exposure.
+*   **Choice, Not Instruction:** Critical decisions are presented as feelings or symbols (◯ vs. ✕), not as transactional UI. The user *feels* the consequence of a choice before they make it.
 
-*   **User-Centric Design:** Every feature and interaction is designed with the user in mind. We prioritize simplicity, intuition, and a seamless user experience.
-*   **Innovation:** We are committed to pushing the boundaries of what is possible, integrating cutting-edge technologies like AI and interactive design to create a unique and memorable experience.
-*   **Personalization:** The application adapts to the user, providing a personalized journey that resonates with their individual interests and personality.
-*   **Privacy and Security:** We respect our users' privacy and are committed to protecting their data. The integration with Firebase Authentication ensures a secure and reliable user experience.
+## What We Are Not
+
+UNWRITTEN is deliberately **not**:
+
+*   A productivity tool or a journaling app.
+*   A publishing platform or a social feed.
+*   A therapy product or a content factory.
+
+It is a **mirror that reacts honestly**, a space that grants safety to hesitate, and a path that reveals itself only after trust is earned. We don't ask users to "create." We allow them to **arrive**.
