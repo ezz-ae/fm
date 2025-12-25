@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "scribble-1",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1617397493721-7f735bbbfab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-2",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1547335925-5a882c5d0ef8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-3",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1647464884131-ce1af69be064?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-4",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1636029274960-3e30bce95899?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-5",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1598785977930-e215efa96cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-6",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1598785977930-e215efa96cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-7",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1547335925-5a882c5d0ef8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-8",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1758963335842-4b025d46f125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-9",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1598785977930-e215efa96cc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    },
+    {
+      "id": "scribble-10",
+      "description": "Abstract white scribble on dark background",
+      "imageUrl": "https://images.unsplash.com/photo-1758963335842-4b025d46f125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY3JpYmJsZSUyMGFic3RyYWN0fGVufDB8fHx8MTc2NjY2NzQ0OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scribble abstract"
+    }
+  ]
+}
